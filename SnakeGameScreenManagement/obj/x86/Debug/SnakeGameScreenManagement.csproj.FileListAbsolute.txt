@@ -1,0 +1,74 @@
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Fonts\font1.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\blank.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\buttonbackgroundoutline.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\buttonbackgroundspinner.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\background1.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\titlebackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\maintitlebackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\optionstitlebackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\messageboxbackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\foodsheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\moversheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\rocksheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snakebodysheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snakeheadsheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snaketailsheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snaketonguesheet.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\arrowsheet3.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\pausedtitlebackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\gameovertitlebackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\gamebarbackground.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\menuselectionchange.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\snakebackgroundmusic.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\snakebackgroundmusic.wma
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\instructions.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\credits.xnb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.exe.manifest
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.application
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.exe
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.pdb
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.TrustInfo.xml
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.exe.manifest
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.application
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.exe
+C:\Users\Andy\Documents\Visual Studio 2008\Projects\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.pdb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Fonts\font1.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\blank.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\buttonbackgroundoutline.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\buttonbackgroundspinner.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\background1.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\titlebackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\maintitlebackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\optionstitlebackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\messageboxbackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\foodsheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\moversheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\rocksheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snakebodysheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snakeheadsheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snaketailsheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\snaketonguesheet.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\arrowsheet3.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\pausedtitlebackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\gameovertitlebackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\SpriteSheets\gamebarbackground.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\instructions.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Backgrounds\credits.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\death.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\menuselectionchange.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\snakebackgroundmusic.xnb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Content\Audio\snakebackgroundmusic.wma
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.exe.manifest
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.application
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.exe
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\bin\x86\Debug\Slither.pdb
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.TrustInfo.xml
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.exe.manifest
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.application
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.exe
+C:\Users\Andy\Desktop\SnakeGameScreenManagement\SnakeGameScreenManagement\obj\x86\Debug\Slither.pdb
